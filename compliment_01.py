@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Devyn Bagley
+# DATE: 10/5/2025
+# BRIEF DESCRIPTION: The user is prompted if they want a compliment, if they choose yes a compliment is given. 
 
 
 
@@ -16,7 +16,15 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 
+def main():
+    def compliment():
+        would_you = str(input('Would you like a compliment? '))
+        if would_you == ('yes'):
+            print('You have wonderful eyes.')
+        print('Thank you for playing.')
+    compliment()
 
+main()
 
 
 
@@ -67,11 +75,13 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+I would rate this lab a 3 out of 10.
 
 
 2. What was the hardest part of this lab?
 
+ This lab was pretty straight forward and I didn't have any issues writing the code.
+ I just need to remember to proof read my code so I know there aren't any typos!!
 
 
 
