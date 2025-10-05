@@ -75,11 +75,13 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+I would rate this lab a 3 out of 10.
 
 
 2. What was the hardest part of this lab?
 
+ This lab was pretty straight forward and I didn't have any issues writing the code.
+ I just need to remember to proof read my code so I know there aren't any typos!!
 
 
 
