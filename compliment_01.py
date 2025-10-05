@@ -21,7 +21,7 @@ def main():
         would_you = str(input('Would you like a compliment? '))
         if would_you == ('yes'):
             print('You have wonderful eyes.')
-        print('Tank you for playing.')
+        print('Thank you for playing.')
     compliment()
 
 main()
