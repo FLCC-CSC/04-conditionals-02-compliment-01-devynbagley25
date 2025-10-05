@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Devyn Bagley
+# DATE: 10/5/2025
+# BRIEF DESCRIPTION: The user is prompted if they want a compliment, if they choose yes a compliment is given. 
 
 
 
@@ -16,7 +16,15 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 
+def main():
+    def compliment():
+        would_you = str(input('Would you like a compliment? '))
+        if would_you == ('yes'):
+            print('You have wonderful eyes.')
+        print('Tank you for playing.')
+    compliment()
 
+main()
 
 
 
